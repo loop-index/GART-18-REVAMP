@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/org/usfirst/frc/team6520/robot/Robot.java=UTF-8
+encoding//src/org/usfirst/frc/team6520/robot/commands/C_Rotate.java=UTF-8
+encoding//src/org/usfirst/frc/team6520/robot/commands/C_TurnLeft.java=UTF-8
+encoding//src/org/usfirst/frc/team6520/robot/commands/C_TurnRight.java=UTF-8
